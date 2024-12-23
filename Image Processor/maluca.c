@@ -3,7 +3,7 @@
 #include <string.h>//Biblioteca em que temos funções que lidam com strings como a strlen() 
 #include <math.h>//Biblioteca em que temos a função log()
 
-/* Programa que consiste em receber uma foto para ser proecessada em tentar revelar
+/* Programa que consiste em receber uma foto para ser proecessada e tentar revelar
 informações ocultas*/
 
 //Definição do tipo FOTO
